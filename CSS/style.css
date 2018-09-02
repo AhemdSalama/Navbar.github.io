@@ -1,0 +1,28 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar ul{
+    padding:0px;
+    margin:0px;
+    list-style: none;
+    overflow:hidden;
+    color:#FFF;
+}
+.navbar ul li{
+    float:left;
+    padding:10px;
+    width:150px;
+    background-color:#95103B;
+}
+.Drop {
+    background-color:rgba(149, 16, 59,0.5)
+}
+.navbar ul li a{
+    text-decoration: none;
+    color:#FFF;
+}
+.navbar ul li a:hover{
+    color:aqua;
+    cursor: pointer;
+}
